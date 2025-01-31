@@ -15,6 +15,9 @@ const Footer = () => (
         <a href="mailto:rlathigra11@gmail.com" target="_blank" rel="noopener noreferrer">
           Email
         </a>
+        <a href="https://x.com/LathigraRaj" target="_blank" rel="noopener noreferrer">
+          X
+        </a>
       </div>
     </div>
   </footer>
