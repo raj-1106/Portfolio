@@ -10,6 +10,9 @@ const About = () => (
     <p>
       With a strong foundation in blockchain technologies and a passion for innovation, I aim to build impactful projects in the Web3 ecosystem, contributing to its growth and adoption. You can explore my journey and projects in the sections below.
     </p>
+    <a href="/public/Raj_Lathigra_Resume.pdf" target="_blank" rel="noopener noreferrer">
+      View Resume
+    </a>
   </section>
 );
 
